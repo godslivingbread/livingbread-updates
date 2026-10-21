@@ -1,0 +1,33 @@
+{
+  "authenticity" : {
+    "algorithm" : "Ed25519",
+    "keyID" : "living-bread-development-2026-01",
+    "signature" : "ebrYIBJQmPxnWA4Fgzy1kBcfBIy+Qkrikg7wZmiQKGEUOBBKiGwXOM8xDFCAc1iEAo36mjdzxR47eouwKDLTBw=="
+  },
+  "catalogs" : [
+    {
+      "byteCount" : 243664,
+      "catalogVersion" : 2,
+      "effectiveDate" : "2026-10-20",
+      "fileSHA256" : "232d16928762ab1d5c78229812f7839d0788ddd13ab3f487e1619387113ec222",
+      "path" : "daily-verse/catalog-v2-00f9691da510c0d19e31976295281d63c0c40856fe7e5816512d08f1e933eb99.json",
+      "payloadSHA256" : "00f9691da510c0d19e31976295281d63c0c40856fe7e5816512d08f1e933eb99",
+      "scheduleVersion" : 2
+    },
+    {
+      "byteCount" : 243664,
+      "catalogVersion" : 3,
+      "effectiveDate" : "2026-10-20",
+      "fileSHA256" : "72987789be560c0b0a65a79cb23731028c0a40a60c34f9548abfea1dcbbc5471",
+      "path" : "daily-verse/catalog-v3-17859832836db9dd37444f8704ebd2ae1a2f20159206f02734eacf46fd535d62.json",
+      "payloadSHA256" : "17859832836db9dd37444f8704ebd2ae1a2f20159206f02734eacf46fd535d62",
+      "scheduleVersion" : 3
+    }
+  ],
+  "channel" : "development",
+  "integrity" : {
+    "algorithm" : "SHA-256",
+    "payloadSHA256" : "2ac0b774ebbc5671db2bf2535b880e00c6e4a69bf289aeecc0e9a709da2412a9"
+  },
+  "schemaVersion" : 1
+}
